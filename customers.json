@@ -1,0 +1,24 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "cname": "john"
+    },
+    {
+      "id": 2,
+      "cname": "tom"
+    },
+    {
+      "id": 3,
+      "cname": "johnyu"
+    },
+    {
+      "id": 4,
+      "cname": "johnyu"
+    },
+    {
+      "id": 5,
+      "cname": "johnyu"
+    }
+  ]
+}
